@@ -24,8 +24,13 @@ GCNU301A Table of Contents :
 7. Solving a quadratic equation by the formula
 8. Formulate quadratic equations in one unknown in practical contexts
 9. Discriminant 判別式 and nature of roots of a quadratic equation
+
 10.Solving a quadratic equation by the graphical method
+
 11.Graphs of quadratic equations and nature of roots
+
 12.Functions 函數 of one variable
+
 13.Graphical representation of some common functions
+
 14.Quadratic Inequalities 不等式 in one variable
